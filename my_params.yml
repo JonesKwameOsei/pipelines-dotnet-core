@@ -1,0 +1,7 @@
+parameters:
+  - name: clients
+    type: object
+    default:
+      - Vodafone
+      - MTN
+      - Tigo
